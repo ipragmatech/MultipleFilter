@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_category">
+        <item>Size</item>
+        <item>Color</item>
+        <item>Brand</item>
+    </string-array>
+
+    <string-array name="filter_size">
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>30</item>
+        <item>32</item>
+        <item>34</item>
+        <item>36</item>
+        <item>38</item>
+        <item>40</item>
+        <item>42</item>
+        <item>44</item>
+        <item>46</item>
+        <item>48</item>
+        <item>50</item>
+    </string-array>
+
+
+    <string-array name="filter_brand">
+        <item>16DS</item>
+        <item>14:12</item>
+        <item>3SECOND</item>
+        <item>Adidas</item>
+        <item>Atypical</item>
+        <item>Atypical Basic</item>
+        <item>Awesome</item>
+        <item>Billabong</item>
+        <item>Blankon</item>
+        <item>Batik</item>
+        <item>Bossini</item>
+        <item>Bossini</item>
+        <item>CPS</item>
+        <item>Contempo</item>
+        <item>Converse</item>
+        <item>Country Fiesta</item>
+        <item>Cressida</item>
+        <item>Denim Inc</item>
+        <item>DND</item>
+        <item>Emba Casual</item>
+        <item>Emba Jeans</item>
+        <item>Evil Army</item>
+        <item>Famo</item>
+        <item>Fila</item>
+        <item>FTL</item>
+    </string-array>
+
+    <array name="filter_color">
+        <item>Blue</item>
+        <item>Grey</item>
+        <item>Black</item>
+        <item>Pink</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Sky Blue</item>
+        <item>Green</item>
+        <item>Brown</item>
+        <item>Yellow</item>
+        <item>White</item>
+        <item>Cyan</item>
+        <item>Gold</item>
+        <item>Indigo</item>
+        <item>Lemon</item>
+        <item>Lime</item>
+        <item>Magenta</item>
+        <item>Peach</item>
+        <item>Purple</item>
+        <item>Violet</item>
+        <item>Silver</item>
+    </array>
+</resources>
